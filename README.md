@@ -1,0 +1,1 @@
+This is my first Odin Project. I'm going to attempt to rebuild the google homepage. I will write back once it's complete. Started on 02/06/18.
